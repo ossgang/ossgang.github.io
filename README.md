@@ -3,9 +3,7 @@
 We are a bunch of open-source enthusiasts and we like to write readable and reusable code. 
 Within our core github organization, we work currently on the following projects (currently mainly java focused):
 
-# Our projects
-
-## Within the [ossgang](https://github.com/ossgang) organization
+# Our projects within the [ossgang](https://github.com/ossgang) organization
 
 .. there are a few things, which we consider quite 'core' and general for our java work. 
 These are the things we maintain within this [github organization](https://github.com/ossgang).
@@ -22,7 +20,7 @@ A simple mechanism to load a certain collection of beans in a spring-based appli
 based on naming conventions. This is particularly useful for situations, where a very flexible 
 approach is required, e.g. for testing and commissioning. 
 
-## Other projects
+# Other projects
 
 ### [tensorics](https://tensorics.org)
 A library for dealing comfortably with multidimensional objects in java.
