@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: The Open Source Software Gang
-description: Join us in our quest to write readable and reusable code.
+description: Join us in our quest to write readable and reusable code!
+show_downloads: false
