@@ -34,3 +34,6 @@ A set of libraries to manage long-living reactive streams in java.
 ### [jmad](https://jmad.io/)
 A quite specialized topic: A java API for [MadX](http://mad.web.cern.ch/mad/), a simulation software for [particle accelerators](https://en.wikipedia.org/wiki/Particle_accelerator), 
 mainly developed and used at [CERN](https://home.cern/).
+
+### [molr](https://molr.io/)
+A modulare execution and debugging framework.
