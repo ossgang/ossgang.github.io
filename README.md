@@ -1,7 +1,7 @@
 # We are ...
 
-We are a bunch of open-source enthusiasts and we like to write readable and reusable code. 
-Within our core github organization, we work currently on the following projects (currently mainly java focused):
+... a bunch of open-source enthusiasts and we like to write readable and reusable code. 
+Currently, we are developing and maintaining the following projects (mainly java focused):
 
 # Core Projects
 
