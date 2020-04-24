@@ -25,7 +25,7 @@ approach is required, e.g. for testing and commissioning.
 ### [tensorics](https://tensorics.org)
 A library for dealing comfortably with multidimensional objects in java.
 
-### minifx: https://minifx.org
+### minifx: [https://minifx.org](https://minifx.org)
 A set of minimalistic libraries for structuring JavaFx GUIs within spring.
 
 Here is an overview of the actually available versions:
@@ -35,7 +35,7 @@ Here is an overview of the actually available versions:
 |minifx-fxml| [![Latest release](https://img.shields.io/github/release/minifx/minifx-fxml.svg?maxAge=1000)](https://github.com/minifx/minifx-fxml/releases) |[![Bintray](https://img.shields.io/bintray/v/minifx/minifx-repo/minifx-fxml)](https://bintray.com/minifx/minifx-repo/minifx-fxml/_latestVersion)|[![Maven Central](https://img.shields.io/maven-central/v/org.minifx/minifx-fxml)](https://search.maven.org/search?q=a:minifx-fxml)|
 |minifx-workbench| [![Latest release](https://img.shields.io/github/release/minifx/minifx-workbench.svg?maxAge=1000)](https://github.com/minifx/minifx-workbench/releases) |[![Bintray](https://img.shields.io/bintray/v/minifx/minifx-repo/minifx-workbench)](https://bintray.com/minifx/minifx-repo/minifx-workbench/_latestVersion)|[![Maven Central](https://img.shields.io/maven-central/v/org.minifx/minifx-workbench)](https://search.maven.org/search?q=a:minifx-workbench)|
 
-### molr: https://molr.io
+### molr: [https://molr.io](https://molr.io)
 
 A framework (not only java) for producing remote (and/or local) side effects (called "missions" ;-). 
 Currently it supports particular java missions and quite generic python missions.
