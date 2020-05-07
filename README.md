@@ -14,6 +14,11 @@ This is a set of java classes, which we felt we were mission in other libraries.
 * a generic `Maybe` object, which contains either a value or an error (exception).
 * a property mechanism, quite similar to the one known from javafx, but not bound to any GUI framework.
 
+Here is an overview of actually available versions:
+
+| library | latest release | bintray/jcenter | maven central |
+|:---------|:-------:|:----------:|:----------------:|
+|ossgang-commons| [![Latest release](https://img.shields.io/github/release/ossgang/ossgang-commons.svg?maxAge=1000)](https://github.com/ossgang/ossgang-commons/releases) |[![Bintray](https://img.shields.io/bintray/v/ossgang/ossgang-repo/ossgang-commons)](https://bintray.com/ossgang/ossgang-repo/ossgang-commons/_latestVersion)| not available |
 
 ### [ossgang-spring-wonderland](ossgang-spring-wonderland)
 A simple mechanism to load a certain collection of beans in a spring-based application, 
@@ -29,7 +34,7 @@ A library for dealing comfortably with multidimensional objects in java.
 A set of minimalistic libraries for structuring JavaFx GUIs within spring.
 
 Here is an overview of the actually available versions:
-
+ 
 | library | latest release | bintray/jcenter | maven central |
 |:---------|:-------:|:----------:|:----------------:|
 |minifx-fxml| [![Latest release](https://img.shields.io/github/release/minifx/minifx-fxml.svg?maxAge=1000)](https://github.com/minifx/minifx-fxml/releases) |[![Bintray](https://img.shields.io/bintray/v/minifx/minifx-repo/minifx-fxml)](https://bintray.com/minifx/minifx-repo/minifx-fxml/_latestVersion)|[![Maven Central](https://img.shields.io/maven-central/v/org.minifx/minifx-fxml)](https://search.maven.org/artifact/org.minifx/minifx-fxml)|
