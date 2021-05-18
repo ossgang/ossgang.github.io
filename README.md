@@ -18,7 +18,7 @@ Here is an overview of actually available versions:
 
 | library | latest release | bintray/jcenter | maven central |
 |:---------|:-------:|:----------:|:----------------:|
-|ossgang-commons| [![Latest release](https://img.shields.io/github/release/ossgang/ossgang-commons.svg?maxAge=1000)](https://github.com/ossgang/ossgang-commons/releases) |[![Bintray](https://img.shields.io/bintray/v/ossgang/ossgang-repo/ossgang-commons)](https://bintray.com/ossgang/ossgang-repo/ossgang-commons/_latestVersion)| not available |
+|ossgang-commons| [![Latest release](https://img.shields.io/github/release/ossgang/ossgang-commons.svg?maxAge=1000)](https://github.com/ossgang/ossgang-commons/releases) |[![Bintray](https://img.shields.io/bintray/v/ossgang/ossgang-repo/ossgang-commons)](https://bintray.com/ossgang/ossgang-repo/ossgang-commons/_latestVersion)| [![Maven Central](https://img.shields.io/maven-central/v/org.ossgang/ossgang-commons)](https://search.maven.org/artifact/org.ossgang/ossgang-commons) |
 
 ### [ossgang-spring-wonderland](ossgang-spring-wonderland)
 A simple mechanism to load a certain collection of beans in a spring-based application, 
