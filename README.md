@@ -31,14 +31,14 @@ approach is required, e.g. for testing and commissioning.
 
 # Other projects
 
-### tensorics: [https://tensorics.org](https://tensorics.org)
+### [tensorics](https://tensorics.org)
 A library for dealing comfortably with multidimensional objects in java.
 
 | library | latest release |  maven central |
 |:---------|:-------:|:----------------:|
 |tensorics-core| [![Latest release](https://img.shields.io/github/release/tensorics/tensorics-core.svg?maxAge=1000)](https://github.com/tensorics/tensorics-core/releases)| [![Maven Central](https://img.shields.io/maven-central/v/org.tensorics/tensorics-core)](https://search.maven.org/artifact/org.tensorics/tensorics-core) |
 
-### minifx: [https://minifx.org](https://minifx.org)
+### [minifx](https://minifx.org)
 A set of minimalistic libraries for structuring JavaFx GUIs within spring.
 
 Here is an overview of the actually available versions:
@@ -48,7 +48,7 @@ Here is an overview of the actually available versions:
 |minifx-fxml| [![Latest release](https://img.shields.io/github/release/minifx/minifx-fxml.svg?maxAge=1000)](https://github.com/minifx/minifx-fxml/releases) |[![Maven Central](https://img.shields.io/maven-central/v/org.minifx/minifx-fxml)](https://search.maven.org/artifact/org.minifx/minifx-fxml)|
 |minifx-workbench| [![Latest release](https://img.shields.io/github/release/minifx/minifx-workbench.svg?maxAge=1000)](https://github.com/minifx/minifx-workbench/releases) |[![Maven Central](https://img.shields.io/maven-central/v/org.minifx/minifx-workbench)](https://search.maven.org/artifact/org.minifx/minifx-workbench)|
 
-### molr: [https://molr.io](https://molr.io)
+### [molr](https://molr.io)
 
 A framework (not only java) for producing remote (and/or local) side effects (called "missions" ;-). 
 Currently it supports particular java missions and quite generic python missions.
@@ -65,14 +65,14 @@ Here is an overview of the actually available versions:
 |molr-gui-fx| [![Latest release](https://img.shields.io/github/release/molr/molr-gui-fx.svg?maxAge=1000)](https://github.com/molr/molr-gui-fx/releases)| [![Maven Central](https://img.shields.io/maven-central/v/io.molr/molr-gui-fx)](https://search.maven.org/artifact/io.molr/molr-gui-fx) |
 
 
-### streamingpool: [https://streamingpool.org](https://streamingpool.org/)
+### [streamingpool](https://streamingpool.org/)
 A set of libraries to manage long-living reactive streams in java.
 
 | library | latest release |  maven central |
 |:---------|:-------:|:----------------:|
 |streamingpool-core| [![Latest release](https://img.shields.io/github/release/streamingpool/streamingpool-core.svg?maxAge=1000)](https://github.com/streamingpool/streamingpool-core/releases)| [![Maven Central](https://img.shields.io/maven-central/v/org.streamingpool/streamingpool-core)](https://search.maven.org/artifact/org.streamingpool/streamingpool-core) |
 
-### jmad: [https://jmad.io](https://jmad.io/)
+### [jmad](https://jmad.io/)
 A quite specialized topic: A java API for [MadX](http://mad.web.cern.ch/mad/), a simulation software for [particle accelerators](https://en.wikipedia.org/wiki/Particle_accelerator), 
 mainly developed and used at [CERN](https://home.cern/).
 
